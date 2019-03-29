@@ -1,0 +1,8 @@
+﻿  Renderer_DX.cpp
+c:\temp\project1\project1\renderer_dx.h(59): warning C4114: same type qualifier used more than once
+c:\temp\project1\project1\renderer_dx.cpp(71): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\temp\project1\project1\renderer_dx.cpp(72): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\temp\project1\project1\renderer_dx.cpp(133): warning C4244: '=': conversion from 'const int' to 'FLOAT', possible loss of data
+c:\temp\project1\project1\renderer_dx.cpp(134): warning C4244: '=': conversion from 'const int' to 'FLOAT', possible loss of data
+c:\temp\project1\project1\renderer_dx.cpp(146): warning C4114: same type qualifier used more than once
+  Project1.vcxproj -> C:\Temp\Project1\Debug\Project1.exe
